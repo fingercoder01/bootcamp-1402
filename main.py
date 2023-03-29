@@ -22,3 +22,10 @@ print(Aa_1)
 print(Bb_1)
 print(Cc_1)
 print(_maryam)
+a = 123
+b = 32
+print(a + b)
+print(b * a)
+print(a ** b)
+print(a // b)
+print(b / b)

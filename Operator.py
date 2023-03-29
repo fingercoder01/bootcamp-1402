@@ -11,3 +11,23 @@
 در مرحله بعد به متغیر num1 عدد 50 رو اضافه میکنید و چاپ میکنید
 و در مرحله بعدی num2 عدد 5 رو کسر میکنید و چاپ میکنید
 """
+num1 = 10
+num2 = 15
+print(num1,"+" ,num2,"=",num1+num2)
+print((num1,"-",num2,"=",num1-num2)
+print(num1,"/", num2,"=",num1/num2)
+print(num1 ,"//", num2,"=",num1//num2)
+print(num1, "*", num2,"=",num1*num2)
+print(num1, "==", num2,"=",num1==num2)
+print(num1  ,"!=", num2,"=",num1!=num2)
+print(num1 , ">", num2,"=",num1>num2)
+print(num1 , "<", num2,"=",num1<num2)
+print(num1 , ">=", num2,"=",num1>=num2)
+print(num1  ,"+<", num2,"="num1+<num2)
+num1 += num2
+print(num1)
+num2 -= num1
+print(num1)
+
+
+
