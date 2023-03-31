@@ -14,3 +14,11 @@
 
 """
 
+
+dict_main ={"m":3,"g":[34,67,("mt",45,"d")]}
+print(dict_main)
+print(dict_main[0],[1])
+print(dict_main[0],[1],[0],[1])
+print(dict_main[0],[1],[0],[1],[2])
+print(dict_main.keys())
+print(dict_main,dict_main[0],[1],dict_main[0],[1],[0],[1],dict_main[0],[1],[0],[1],[2],dict_main.keys())
