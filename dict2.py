@@ -15,10 +15,9 @@
 """
 
 
-dict_main ={"m":3,"g":[34,67,("mt",45,"d")]}
+dict_main ={"m":22,"o":9[23,45,99,56({"r":65,"d":33,"ss":55})]}
 print(dict_main)
-print(dict_main[0],[1])
-print(dict_main[0],[1],[0],[1])
-print(dict_main[0],[1],[0],[1],[2])
-print(dict_main.keys())
-print(dict_main,dict_main[0],[1],dict_main[0],[1],[0],[1],dict_main[0],[1],[0],[1],[2],dict_main.keys())
+print(dict_main,[],[0],[1],[2])
+print(dict_main,[],[0],[1],[2],[1])
+print(dict_main,[],[0],[1],[2],[1],[2][4])
+print(dict_main,dict_main,[],[0],[1],[2],dict_main,[],[0],[1],[2],[1],dict_main,[],[0],[1],[2],[1],[2][4])
