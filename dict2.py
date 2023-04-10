@@ -13,11 +13,9 @@
 در مرحله اخر کلیه پرینت های تمامی مرحله ها در یک خط پرینت شود به صورت رشته
 
 """
-
-
-dict_main ={"m":22,"o":9[23,45,99,56({"r":65,"d":33,"ss":55})]}
+dict_main = {"m":12,45:[1,2,({"l":7,"y":66,55:"p"}),7,8],"f":6}
 print(dict_main)
-print(dict_main,[],[0],[1],[2])
-print(dict_main,[],[0],[1],[2],[1])
-print(dict_main,[],[0],[1],[2],[1],[2][4])
-print(dict_main,dict_main,[],[0],[1],[2],dict_main,[],[0],[1],[2],[1],dict_main,[],[0],[1],[2],[1],[2][4])
+print(dict_main[45])
+print(dict_main[45][1])
+print(dict_main[45][2])
+print(dict_main[45][2].values())
