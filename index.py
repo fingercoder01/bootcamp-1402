@@ -13,3 +13,19 @@
 
 
 factory = {'shiraz':['ali','reza','mina','sadegh',{'shiraz1':['admin1',{'secority':('uni',[7878,3454,5679,'OK'])},'admin3']}],'yazd':['raha','yegane','sara','mina',{'yazd1':['manager1',{'sec':('class',[1090,2049,3120,'woman'])},'admin3']}]}
+
+
+factory = {"shiraz":["ali","raza","mina","sadegh"\
+    ,{"shiraz1":["admin1",{"secority":("nui",[7878,3454,5697,"ok"])},"admin3"]}],"yazd":\
+    ["raha","yegane","sara","mina",{"yazd1":["manager1",{"sec":("class", \
+    [1090,2049,3120,"woman"])},"admin3"]}]}
+
+
+
+print(factory.keys("shiraz"))
+print(factory.keys("yazd"))
+
+print(factory.keys("shiraz1"))
+print(factory.keys("yazd1"))
+print(factory["shiraz"][2],factory['yazd'][2])
+print(factory["shiraz"][0][5:3],factory["yazd"][0][5:3])
